@@ -5,4 +5,5 @@ encryption. This project is for educational purporses and shouldn't be used to p
 
 Usage: 
 python encrypt.py
+
 python decrypt.py
