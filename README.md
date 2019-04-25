@@ -4,6 +4,7 @@ Created as a program for a school project. Caesars Cipher is one of the oldest a
 encryption. This project is for educational purporses and shouldn't be used to protect your data. 
 
 Usage: 
+
 python encrypt.py
 
 python decrypt.py
