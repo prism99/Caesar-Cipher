@@ -8,3 +8,5 @@ Usage:
 python encrypt.py
 
 python decrypt.py
+
+Simple, put the text you want to encrypt or decrypt using Caesar Cipher.
